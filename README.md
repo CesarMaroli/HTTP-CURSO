@@ -1,1 +1,1 @@
-Curso Alura
+Curso Alura.
